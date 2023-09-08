@@ -7,3 +7,5 @@ Change #3: I have 3 dogs
 Their names are Coco, Max, and Freddy
 
 This is the 5th modification. Dogs > Cats
+
+Freddy is 9 years old. I hope he lives for another 6 years
